@@ -34,3 +34,31 @@ If both numbers are 1 (like two heads), the sum is 0, but now there’s a carry 
 
 ![image](https://github.com/user-attachments/assets/52e42979-4531-44e7-8dd9-773833f2c93b)
 
+# Half adder built from XOR and AND gates diagram 
+![image](https://github.com/user-attachments/assets/03130f40-27c7-462b-844e-28eadaa3a549)
+
+# Physical demenstrations of simple Half Adders
+
+In this diagram above we can see they used 220 ohms resistors but we decided to have one of those resitors be 320 ohms instead.
+
+![image](https://github.com/user-attachments/assets/438c793e-5a3e-47e6-8760-07f5b59682d2)
+
+![image](https://github.com/user-attachments/assets/de1e5587-7416-41b1-b467-775b5a97b859)
+
+# Imagine of a difference engine 
+
+![image](https://github.com/user-attachments/assets/3cfa90b3-84d1-4cb6-9b64-8a3030e763e4)
+
+The half adder we talked about is like a tiny piece of the puzzle inside a machine like this. Just as gears turn to calculate numbers in the difference engine, the half adder handles small steps of adding 0s and 1s inside modern computers. Computers today may be much smaller, but they still rely on simple operations like the ones done by these early machines!
+
+# Works Cited 
+
+“Google Image Result for Https://I.Pinimg.Com/Originals/90/14/47/901447f6e986eb5bd3596...: Facebook Cover Images, Facebook Cover Photos Vintage, Facebook Cover Photos.” Pinterest, 8 May 2021, www.pinterest.com/pin/880031583405682121/. 
+
+Justice , MATTHEW. HOW COMPUTERS RE A LLY WORK A H A N D S - O N G U I D E T O T H E I N N E R WORKINGS OF THE MACHINE. 
+
+
+
+
+
+
