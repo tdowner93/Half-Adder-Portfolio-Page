@@ -41,7 +41,7 @@ If both numbers are 1 (like two heads), the sum is 0, but now there’s a carry 
 
 In this diagram above we can see they used 220 ohms resistors but we decided to have one of those resitors be 320 ohms instead.
 
-![image](https://github.com/user-attachments/assets/4b61b70d-52eb-4569-90f9-f8d57f7aaebd)
+![image](https://github.com/user-attachments/assets/e2715efe-02d8-4048-90bb-ec4fb7605fd8)
 
 
 ![image](https://github.com/user-attachments/assets/aec03ea8-0bf6-470b-8d4a-97ecee9ff8cc)
